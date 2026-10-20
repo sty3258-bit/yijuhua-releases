@@ -6,15 +6,15 @@
 
 ## macOS 开发预览版
 
-[下载 1.0.0-preview.1（Apple silicon）](https://github.com/sty3258-bit/yijuhua-releases/releases/tag/v1.0.0-preview.1)
+[下载 1.0.0-preview.2（Apple silicon）](https://github.com/sty3258-bit/yijuhua-releases/releases/tag/v1.0.0-preview.2)
 
-这是邀请试用的开发预览版，尚不是 1.0 稳定版。安装包内置桌面界面和本机后台，无需自行安装 Node、pnpm 或项目源码。解压后将「一句话 Preview.app」移到「应用程序」，打开并连接自己的模型服务。模型服务费用由使用者自行承担。
+这是邀请试用的开发预览版，尚不是 1.0 稳定版。安装包内置桌面界面和本机后台，无需自行安装 Node、pnpm 或项目源码。解压后将「一句话 Preview.app」移到「应用程序」，打开后直接验证自己的模型服务、选择模型并创建第一个助手。模型服务费用由使用者自行承担。
 
-- 适用于 Apple silicon（M 系列）Mac；尚未提供 Intel 版本。
+- 适用于 Apple silicon（M 系列）Mac、macOS 12 或更新版本；尚未提供 Intel 版本。
 - 当前采用临时签名，尚未完成 Apple Developer ID 签名与公证，macOS 可能阻止首次打开；本预览不保证全新 Mac 无提示即用。
 - 需要操作电脑时，在 macOS 系统设置中授予辅助功能与屏幕录制权限。
 - 飞书在官方页面完成个人应用配置和授权；达芬奇需先安装软件并允许脚本访问。百度网盘产品授权尚未完成，不在本版可用承诺内。
-- 内置后台已通过临时 HOME、独立端口和合成模型端到端验证；真实全新 Mac GUI 安装仍待验收，部分原生数据分析依赖未随包提供。
+- 已通过空白 HOME/应用数据目录的实际客户端首启、模型连接、首条回复、重开与异常恢复验收；另一台真实新 Mac 与默认安全检查仍待验收，部分原生数据分析依赖未随包提供。
 
 下载后可按同页 `SHA256SUMS.txt` 核对文件完整性。版本说明和安装步骤见发布附件。
 
