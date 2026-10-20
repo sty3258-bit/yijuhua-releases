@@ -2,6 +2,8 @@
 
 一句话，让 AI 协作起来。把任务交给你的 AI 助手，自由选择模型，组建团队，在对话中推进工作。
 
+[产品与下载网站](https://yijuhua-desktop-preview.songhongyi.chatgpt.site)
+
 ## macOS 开发预览版
 
 [下载 1.0.0-preview.1（Apple silicon）](https://github.com/sty3258-bit/yijuhua-releases/releases/tag/v1.0.0-preview.1)
