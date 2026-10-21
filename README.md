@@ -6,7 +6,7 @@
 
 ## macOS 开发预览版
 
-[下载 1.0.0-preview.2（Apple silicon）](https://github.com/sty3258-bit/yijuhua-releases/releases/tag/v1.0.0-preview.2)
+[下载 1.0.0-preview.3（Apple silicon）](https://github.com/sty3258-bit/yijuhua-releases/releases/tag/v1.0.0-preview.3)
 
 这是邀请试用的开发预览版，尚不是 1.0 稳定版。安装包内置桌面界面和本机后台，无需自行安装 Node、pnpm 或项目源码。解压后将「一句话 Preview.app」移到「应用程序」，打开后直接验证自己的模型服务、选择模型并创建第一个助手。模型服务费用由使用者自行承担。
 
